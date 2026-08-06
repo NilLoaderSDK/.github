@@ -3,7 +3,7 @@
        width="30"
        alt=""
        aria-hidden="true">
-  NilLoader Community
+  NilLoaderSDK Community
 </h1>
 
 A community-driven effort to build tooling, libraries, integrations, and developer resources around the NilLoader ecosystem.
